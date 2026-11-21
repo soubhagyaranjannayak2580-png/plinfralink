@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://plinfralink.in/sitemap.xml
